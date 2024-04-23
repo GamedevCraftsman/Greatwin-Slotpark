@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CheckResults
+  - BakeCamera
+  - SpinButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FirstSlot
+    uniqueID: 1594683141
+    locked: 0
+  - name: SecondSlot
+    uniqueID: 3984769041
+    locked: 0
+  - name: BlockPanels
+    uniqueID: 2387378975
+    locked: 0
+  - name: ThirdSlot
+    uniqueID: 1341444225
+    locked: 0
+  - name: UpperSlot
+    uniqueID: 1134191535
+    locked: 0
